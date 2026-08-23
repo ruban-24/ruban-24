@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/coding-boy.gif" width="420" alt="Animated illustration of a developer coding on a laptop">
+  <img src="./assets/work-from-home.gif" width="100%" alt="Animated illustration of a developer working from home">
 </p>
 
 I’m a senior software engineer in applied AI. I like turning “surely there’s a
@@ -55,4 +55,4 @@ If something I’ve built has been useful, you can support whatever I make next.
 [X](https://x.com/RubanBhatia) ·
 [Reddit](https://www.reddit.com/user/rubanbhatia/)
 
-<sub>Animation by <a href="https://lottiefiles.com/free-animation/coding-boy-UWmN7VzPet">RahiqueOsman</a> via LottieFiles, used under the <a href="https://lottiefiles.com/page/license">Lottie Simple License</a>.</sub>
+<sub>Animation by <a href="https://lottiefiles.com/free-animation/work-from-home-IqixnLv3gW">Vigneshwaran R</a> via LottieFiles, used under the <a href="https://lottiefiles.com/page/license">Lottie Simple License</a>.</sub>
