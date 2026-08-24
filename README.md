@@ -1,12 +1,10 @@
 <picture>
-  <source media="(max-width: 350px) and (prefers-color-scheme: dark)" srcset="./assets/cyber-maker-narrow-dark.png 3x">
-  <source media="(max-width: 350px) and (prefers-color-scheme: light)" srcset="./assets/cyber-maker-narrow-light.png 3x">
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/cyber-maker-mobile-dark.png 3x">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/cyber-maker-mobile-light.png 3x">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/cyber-maker-dark.png 1.846x">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/cyber-maker-light.png 1.846x">
-  <img align="left" hspace="10" src="./assets/cyber-maker-light.png" alt="Pixel-art cyber maker working with a laptop and AI agent">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cyber-maker-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cyber-maker-light.png">
+  <img align="left" src="./assets/cyber-maker-light.png" width="260" alt="Pixel-art cyber maker working with a laptop and AI agent">
 </picture>
+
+<br>
 
 ### Hi, I’m Ruban.
 
@@ -18,27 +16,23 @@ I like turning “surely there’s a better way” into something real.
 
 <table>
   <tr>
-    <td width="44%" valign="middle">
+    <td width="38%" valign="top">
       <h3>
         <a href="https://github.com/ruban-24/letitbrew">
-          <img src="./assets/letitbrew-icon.png" width="34" alt="Let It Brew icon">
+          <img src="./assets/letitbrew-icon.png" width="42" alt="Let It Brew icon">
           Let It Brew
         </a>
       </h3>
       <p><sub>macOS · Swift</sub></p>
+      <p>I founded Let It Brew, a macOS app that keeps your Mac awake while coding agents work, then lets it sleep when they stop.</p>
       <p>
         <a href="https://letitbrew.app">Website</a> ·
         <a href="https://github.com/ruban-24/letitbrew/releases/latest/download/LetItBrew.dmg">Download</a> ·
         <a href="https://github.com/ruban-24/letitbrew">Source</a>
       </p>
     </td>
-    <td width="56%" align="center" valign="middle">
-      <img src="./assets/letitbrew-hero.png" width="420" alt="Let It Brew running on a MacBook">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <p>I founded Let It Brew, a macOS app that keeps your Mac awake while coding agents work, then lets it sleep when they stop.</p>
+    <td width="62%" align="center" valign="middle">
+      <img src="./assets/letitbrew-hero.png" width="460" alt="Let It Brew running on a MacBook">
     </td>
   </tr>
 </table>
