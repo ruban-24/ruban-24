@@ -1,18 +1,16 @@
-<table>
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/cyber-maker-dark.png">
-        <source media="(prefers-color-scheme: light)" srcset="./assets/cyber-maker-light.png">
-        <img src="./assets/cyber-maker-light.png" width="260" alt="Pixel-art cyber maker working with a laptop and AI agent">
-      </picture>
-    </td>
-    <td width="62%" valign="middle">
-      <h3>Hi, I’m Ruban.</h3>
-      <p>I’m a senior software engineer in applied AI. I like turning “surely there’s a better way” into something real.</p>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cyber-maker-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cyber-maker-light.png">
+  <img align="left" src="./assets/cyber-maker-light.png" width="260" alt="Pixel-art cyber maker working with a laptop and AI agent">
+</picture>
+
+<br>
+
+### Hi, I’m Ruban.
+
+I like turning “surely there’s a better way” into something real.
+
+<br clear="left">
 
 ## Currently building
 
@@ -49,13 +47,8 @@
 If something I’ve built has been useful, you can support whatever I make next.
 
 <p>
-  <a href="https://github.com/sponsors/ruban-24">
-    <img src="./assets/github-sponsors.svg" width="174" height="49" alt="Sponsor on GitHub">
-  </a>
-  &nbsp;
-  <a href="https://buymeacoffee.com/rubanbhatia">
-    <img src="./assets/buy-me-a-coffee.png" width="174" height="49" alt="Buy me a coffee">
-  </a>
+  <a href="https://github.com/sponsors/ruban-24"><img src="./assets/github-sponsors.svg" width="174" height="49" alt="Sponsor on GitHub"></a>&nbsp;
+  <a href="https://buymeacoffee.com/rubanbhatia"><img src="./assets/buy-me-a-coffee.png" width="174" height="49" alt="Buy me a coffee"></a>
 </p>
 
 ## Elsewhere
