@@ -1,9 +1,18 @@
-<p align="center">
-  <img src="./assets/work-from-home.gif" width="100%" alt="Animated illustration of a developer working from home">
-</p>
-
-I’m a senior software engineer in applied AI. I like turning “surely there’s a
-better way” into something real.
+<table>
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/cyber-maker-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/cyber-maker-light.png">
+        <img src="./assets/cyber-maker-light.png" width="260" alt="Pixel-art cyber maker working with a laptop and AI agent">
+      </picture>
+    </td>
+    <td width="62%" valign="middle">
+      <h3>Hi, I’m Ruban.</h3>
+      <p>I’m a senior software engineer in applied AI. I like turning “surely there’s a better way” into something real.</p>
+    </td>
+  </tr>
+</table>
 
 ## Currently building
 
@@ -54,5 +63,3 @@ If something I’ve built has been useful, you can support whatever I make next.
 [LinkedIn](https://www.linkedin.com/in/ruban-bhatia-697295159/) ·
 [X](https://x.com/RubanBhatia) ·
 [Reddit](https://www.reddit.com/user/rubanbhatia/)
-
-<sub>Animation by <a href="https://lottiefiles.com/free-animation/work-from-home-IqixnLv3gW">Vigneshwaran R</a> via LottieFiles, used under the <a href="https://lottiefiles.com/page/license">Lottie Simple License</a>.</sub>
