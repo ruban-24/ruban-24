@@ -24,7 +24,7 @@ I like turning “surely there’s a better way” into something real.
         </a>
       </h3>
       <p><sub>macOS · Swift</sub></p>
-      <p>I founded Let It Brew, a macOS app that keeps your Mac awake while coding agents work, then lets it sleep when they stop.</p>
+      <p>I created Let It Brew, a macOS app that keeps your Mac awake while coding agents work, then lets it sleep when they stop.</p>
       <p>
         <a href="https://letitbrew.app">Website</a> ·
         <a href="https://github.com/ruban-24/letitbrew/releases/latest/download/LetItBrew.dmg">Download</a> ·
