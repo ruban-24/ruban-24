@@ -14,6 +14,23 @@ I like turning “surely there’s a better way” into something real.
 
 ## Currently building
 
+<a href="https://github.com/ruban-24/switchboard">
+  <img align="left" src="./assets/switchboard-icon.png" width="112" height="112" alt="Switchboard icon">
+</a>
+
+### [Switchboard](https://github.com/ruban-24/switchboard)
+
+I’m building Switchboard, an open-source router that chooses the model and
+reasoning effort for each task in Claude Code and Codex, then keeps that choice
+fixed for the conversation.
+
+[Get started](https://github.com/ruban-24/switchboard#get-started) ·
+[Source](https://github.com/ruban-24/switchboard)
+
+<br clear="left">
+
+## Other work
+
 <table>
   <tr>
     <td width="38%" valign="top">
@@ -32,12 +49,10 @@ I like turning “surely there’s a better way” into something real.
       </p>
     </td>
     <td width="62%" align="center" valign="middle">
-      <img src="./assets/letitbrew-hero.png" width="460" alt="Let It Brew running on a MacBook">
+      <img src="./assets/letitbrew-hero.png" width="360" alt="Let It Brew running on a MacBook">
     </td>
   </tr>
 </table>
-
-## Other work
 
 - [agex](https://github.com/ruban-24/agex) — Run AI agents in parallel, each on
   its own Git branch and worktree.
