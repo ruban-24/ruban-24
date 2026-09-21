@@ -45,8 +45,9 @@ I created Let It Brew, a macOS app that keeps your Mac awake while coding agents
 
 <br clear="left">
 
-- [agex](https://github.com/ruban-24/agex) — Run AI agents in parallel, each on
-  its own Git branch and worktree.
+### [agex](https://github.com/ruban-24/agex)
+
+Run AI agents in parallel, each on its own Git branch and worktree.
 
 ## Support my work
 
