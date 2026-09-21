@@ -31,28 +31,24 @@ fixed for the conversation.
 
 ## Other work
 
-<table>
-  <tr>
-    <td width="38%" valign="top">
-      <h3>
-        <a href="https://github.com/ruban-24/letitbrew">
-          <img src="./assets/letitbrew-icon.png" width="42" alt="Let It Brew icon">
-          Let It Brew
-        </a>
-      </h3>
-      <p><sub>macOS · Swift</sub></p>
-      <p>I created Let It Brew, a macOS app that keeps your Mac awake while coding agents work, then lets it sleep when they stop.</p>
-      <p>
-        <a href="https://letitbrew.app">Website</a> ·
-        <a href="https://github.com/ruban-24/letitbrew/releases/latest/download/LetItBrew.dmg">Download</a> ·
-        <a href="https://github.com/ruban-24/letitbrew">Source</a>
-      </p>
-    </td>
-    <td width="62%" align="center" valign="middle">
-      <img src="./assets/letitbrew-hero.png" width="360" alt="Let It Brew running on a MacBook">
-    </td>
-  </tr>
-</table>
+<h3>
+  <a href="https://github.com/ruban-24/letitbrew">
+    <img src="./assets/letitbrew-icon.png" width="42" alt="Let It Brew icon">
+    Let It Brew
+  </a>
+</h3>
+
+<p><sub>macOS · Swift</sub></p>
+
+I created Let It Brew, a macOS app that keeps your Mac awake while coding agents work, then lets it sleep when they stop.
+
+[Website](https://letitbrew.app) ·
+[Download](https://github.com/ruban-24/letitbrew/releases/latest/download/LetItBrew.dmg) ·
+[Source](https://github.com/ruban-24/letitbrew)
+
+<p>
+  <img src="./assets/letitbrew-hero.png" width="360" alt="Let It Brew running on a MacBook">
+</p>
 
 - [agex](https://github.com/ruban-24/agex) — Run AI agents in parallel, each on
   its own Git branch and worktree.
