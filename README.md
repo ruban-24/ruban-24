@@ -15,7 +15,7 @@ I like turning “surely there’s a better way” into something real.
 ## Currently building
 
 <a href="https://github.com/ruban-24/switchboard">
-  <img align="left" src="./assets/switchboard-icon.png" width="112" height="112" alt="Switchboard icon">
+  <img align="right" src="./assets/switchboard-icon.png" width="112" height="112" alt="Switchboard icon">
 </a>
 
 ### [Switchboard](https://github.com/ruban-24/switchboard)
@@ -27,12 +27,12 @@ fixed for the conversation.
 [Get started](https://github.com/ruban-24/switchboard#get-started) ·
 [Source](https://github.com/ruban-24/switchboard)
 
-<br clear="left">
+<br clear="right">
 
 ## Other work
 
 <a href="https://github.com/ruban-24/letitbrew">
-  <img align="left" src="./assets/letitbrew-icon.png" width="112" height="112" alt="Let It Brew icon">
+  <img align="right" src="./assets/letitbrew-icon.png" width="112" height="112" alt="Let It Brew icon">
 </a>
 
 ### [Let It Brew](https://github.com/ruban-24/letitbrew)
@@ -43,7 +43,7 @@ I created Let It Brew, a macOS app that keeps your Mac awake while coding agents
 [Download](https://github.com/ruban-24/letitbrew/releases/latest/download/LetItBrew.dmg) ·
 [Source](https://github.com/ruban-24/letitbrew)
 
-<br clear="left">
+<br clear="right">
 
 ### [agex](https://github.com/ruban-24/agex)
 
