@@ -31,14 +31,11 @@ fixed for the conversation.
 
 ## Other work
 
-<h3>
-  <a href="https://github.com/ruban-24/letitbrew">
-    <img src="./assets/letitbrew-icon.png" width="42" alt="Let It Brew icon">
-    Let It Brew
-  </a>
-</h3>
+<a href="https://github.com/ruban-24/letitbrew">
+  <img align="left" src="./assets/letitbrew-icon.png" width="112" height="112" alt="Let It Brew icon">
+</a>
 
-<p><sub>macOS · Swift</sub></p>
+### [Let It Brew](https://github.com/ruban-24/letitbrew)
 
 I created Let It Brew, a macOS app that keeps your Mac awake while coding agents work, then lets it sleep when they stop.
 
@@ -46,9 +43,7 @@ I created Let It Brew, a macOS app that keeps your Mac awake while coding agents
 [Download](https://github.com/ruban-24/letitbrew/releases/latest/download/LetItBrew.dmg) ·
 [Source](https://github.com/ruban-24/letitbrew)
 
-<p>
-  <img src="./assets/letitbrew-hero.png" width="360" alt="Let It Brew running on a MacBook">
-</p>
+<br clear="left">
 
 - [agex](https://github.com/ruban-24/agex) — Run AI agents in parallel, each on
   its own Git branch and worktree.
