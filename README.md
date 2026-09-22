@@ -24,6 +24,7 @@ I’m building Switchboard, an open-source router that chooses the model and
 reasoning effort for each task in Claude Code and Codex, then keeps that choice
 fixed for the conversation.
 
+[Website](https://tryswitchboard.dev) ·
 [Get started](https://github.com/ruban-24/switchboard#get-started) ·
 [Source](https://github.com/ruban-24/switchboard)
 
