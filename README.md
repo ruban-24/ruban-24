@@ -12,7 +12,7 @@ I like turning “surely there’s a better way” into something real.
 
 <br clear="left">
 
-## Currently building
+## Active
 
 <a href="https://tryfidget.app">
   <picture>
@@ -22,15 +22,17 @@ I like turning “surely there’s a better way” into something real.
   </picture>
 </a>
 
-### [Fidget](https://tryfidget.app) <img src="./assets/status-coming-soon.svg" width="82" height="18" alt="Coming soon">
+### [Fidget](https://tryfidget.app) <img src="./assets/status-active.svg" width="48" height="18" alt="Active">
 
-I’m building Fidget, a macOS app that turns your MacBook’s trackpad into tiny
+Fidget is a macOS app that turns your MacBook’s trackpad into tiny
 toys you can feel. It opens from the notch for a quick break while AI works,
 or whenever you want to fidget.
 
-[Website](https://tryfidget.app)
+Fidget is live at [tryfidget.app](https://tryfidget.app).
 
 <br clear="right">
+
+## Currently building
 
 <a href="https://renamable.app">
   <picture>
