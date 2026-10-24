@@ -30,6 +30,8 @@ or whenever you want to fidget.
 
 Fidget is live at [tryfidget.app](https://tryfidget.app).
 
+[GitHub · Downloads & feedback](https://github.com/ruban-24/fidget-releases)
+
 <br clear="right">
 
 ## Currently building
