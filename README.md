@@ -28,9 +28,7 @@ Fidget is a macOS app that turns your MacBook’s trackpad into tiny
 toys you can feel. It opens from the notch for a quick break while AI works,
 or whenever you want to fidget.
 
-Fidget is live at [tryfidget.app](https://tryfidget.app).
-
-[GitHub · Downloads & feedback](https://github.com/ruban-24/fidget-releases)
+[Website](https://tryfidget.app) · [GitHub](https://github.com/ruban-24/fidget-releases)
 
 <br clear="right">
 
